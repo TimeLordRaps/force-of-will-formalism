@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "force-of-will-formalism"
+version = "0.1.0"
+description = "A six-component formalism for structured agency and Force of Will."
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{ name = "Tyler Roost" }]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.11",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+  "Topic :: Sociology",
+  "Topic :: Software Development :: Libraries :: Python Modules",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
