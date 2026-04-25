@@ -4,6 +4,18 @@
 
 A person, system, institution, AI, project, hypernode, or other entity that can be modeled as having structured agency.
 
+## Hypernode
+
+`Hypernode` is imported from [Hyperstratum](https://github.com/TimeLordRaps/hyperstratum), the upstream recursive-form ontology.
+
+In this repository, it only means:
+
+```txt
+A local recursive agency-node that can be modeled through the six-will structure.
+```
+
+Force of Will does not define the full hyper-ontology. See [`docs/hyperstratum-bridge.md`](hyperstratum-bridge.md).
+
 ## Will
 
 Structured agency across six projections:
@@ -144,6 +156,25 @@ Change in agency under state, context, pressure, information, embodiment, desire
 ## Coherence Topology
 
 The relation-structure among components that determines whether the agency-object becomes integrated, fragmented, dominated, captured, or repaired.
+
+## Hyperstratum bridge terms
+
+These terms are imported from Hyperstratum and should not be redefined here beyond their Force of Will relevance.
+
+```txt
+person-hypernode = person modeled as a recursive self-perceiving agency-node
+recursive-graph = graph representation of recursive form-structure
+self-graph = graph whose subject is represented in relation to itself
+mira-graph = reflective graph from an interpretive position
+self-mira-recursive-graph = recursive graph by which a subject reflectively represents itself to itself
+social-mira-graph = external reflective graph by which society receives, labels, interprets, or misrepresents a person-hypernode
+```
+
+Force of Will preserves the distinction:
+
+```txt
+self-mira-recursive-graph != social-mira-graph
+```
 
 ## Unjust Degradation
 
