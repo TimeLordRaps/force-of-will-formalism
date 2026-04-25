@@ -65,17 +65,11 @@ Force of Will is not intensity, stubbornness, domination, mere desire, social ap
 | `V` | Variable will | Adaptive agency under changing conditions | Temporary state falsely canonized as identity |
 | `R` | Relational will | Coherence topology among will components | Dominance, capture, isolation, or fragmentation |
 
-## Hyperstratum bridge
+## Related ontology
 
-This repository is downstream of [Hyperstratum](https://github.com/TimeLordRaps/hyperstratum), the upstream recursive-form ontology for terms such as `hypernode`, `person-hypernode`, `recursive-graph`, `self-graph`, `mira-graph`, `self-mira-recursive-graph`, and `social-mira-graph`.
+This repo stands on its own. A `hypernode` simply means a local recursive agency-node that can be modeled through the six-will structure.
 
-In this repository, `hypernode` only means:
-
-```txt
-A local recursive agency-node that can be modeled through the six-will structure.
-```
-
-The full hyper-ontology belongs in Hyperstratum, not Force of Will. See [`docs/hyperstratum-bridge.md`](docs/hyperstratum-bridge.md).
+For the broader recursive-form ontology, see [Hyperstratum](https://github.com/TimeLordRaps/hyperstratum).
 
 ## Repository map
 
@@ -85,8 +79,7 @@ The full hyper-ontology belongs in Hyperstratum, not Force of Will. See [`docs/h
 ├── docs/
 │   ├── formalism.md
 │   ├── glossary.md
-│   ├── coherence-functional.md
-│   └── hyperstratum-bridge.md
+│   └── coherence-functional.md
 ├── examples/
 │   ├── self-audit-template.md
 │   └── agent-assessment.md
